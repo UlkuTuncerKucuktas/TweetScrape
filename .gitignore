@@ -1,2 +1,4 @@
 # Virtual environment
 tweetscrapeenv/
+.DS_Store
+*.csv
